@@ -1,0 +1,64 @@
+﻿body{ 
+
+background-color:#BDB76B; 
+
+} 
+
+  
+
+.class{ 
+
+color:red; 
+font-size: 64px;
+
+} 
+
+  
+
+input[type="text"]{ 
+
+width:300px; 
+
+} 
+
+  
+
+#first-section{ 
+
+color:#FFFF00; 
+
+} 
+
+  
+
+h1,h2,h3{ 
+
+font-style:italic ; 
+
+} 
+
+  
+
+#main { 
+
+font-size: 18px; 
+
+} 
+
+  
+
+#nav { 
+
+font-size: 32px; 
+
+text-align: center; 
+
+} 
+
+  
+
+#nav a { 
+
+margin: 20px; 
+
+} 
